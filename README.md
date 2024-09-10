@@ -73,7 +73,7 @@ The dataset used in this project is the **Water Potability Dataset**, which cont
 1. Clone the repository:
    ```bash
    
-   git clone https://github.com/YASHWANTH-PANCHAGIRI/water-potability-prediction.git
+
 
    ```
    

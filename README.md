@@ -72,8 +72,8 @@ The dataset used in this project is the **Water Potability Dataset**, which cont
 
 1. Clone the repository:
    ```bash
-   
-
+         https://github.com/YASHWANTH-PANCHAGIRI/WATER_POTABILITY/blob/main/README.md  
+  
 
    ```
    
